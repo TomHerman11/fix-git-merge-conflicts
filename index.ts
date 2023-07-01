@@ -1,7 +1,7 @@
 function do_something1() {
     const a = 4;
     const b = 6;
-    const c = a + b;
+    const c = 17;
     console.log(c);
 }
 
