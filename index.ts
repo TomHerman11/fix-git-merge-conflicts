@@ -7,13 +7,13 @@ function do_something1() {
 
 function do_something2() {
     const f = "hello";
-    const g = "you";
+    const g = "tom";
     const h = f + " " + g;
     console.log(h);
 }
 
 function do_something3() {
-    const q = 9;
+    const q = 107;
     const r = "world";
     const s = q + " " + r;
     console.log(s);
